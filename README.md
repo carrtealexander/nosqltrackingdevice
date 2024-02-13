@@ -23,5 +23,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ## Mock-Up
-The following video shows an example of the application being used from the command line:
+The following  shows an example of the application being used from the command line:
 
+![GifMaker_20240212213816306](https://github.com/carrtealexander/nosqltrackingdevice/assets/143460245/974571af-e4ba-476b-8626-ebb34d208ded)
